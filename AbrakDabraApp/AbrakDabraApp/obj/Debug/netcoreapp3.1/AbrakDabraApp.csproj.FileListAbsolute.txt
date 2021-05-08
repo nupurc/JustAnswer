@@ -1,0 +1,12 @@
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\bin\Debug\netcoreapp3.1\AbrakDabraApp.exe
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\bin\Debug\netcoreapp3.1\AbrakDabraApp.deps.json
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\bin\Debug\netcoreapp3.1\AbrakDabraApp.runtimeconfig.json
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\bin\Debug\netcoreapp3.1\AbrakDabraApp.runtimeconfig.dev.json
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\bin\Debug\netcoreapp3.1\AbrakDabraApp.dll
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\bin\Debug\netcoreapp3.1\AbrakDabraApp.pdb
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\obj\Debug\netcoreapp3.1\AbrakDabraApp.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\obj\Debug\netcoreapp3.1\AbrakDabraApp.AssemblyInfo.cs
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\obj\Debug\netcoreapp3.1\AbrakDabraApp.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\obj\Debug\netcoreapp3.1\AbrakDabraApp.dll
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\obj\Debug\netcoreapp3.1\AbrakDabraApp.pdb
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\AbrakDabraApp\obj\Debug\netcoreapp3.1\AbrakDabraApp.genruntimeconfig.cache

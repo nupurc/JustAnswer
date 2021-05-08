@@ -1,0 +1,12 @@
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\bin\Debug\netcoreapp3.1\EmailAddress.exe
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\bin\Debug\netcoreapp3.1\EmailAddress.deps.json
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\bin\Debug\netcoreapp3.1\EmailAddress.runtimeconfig.json
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\bin\Debug\netcoreapp3.1\EmailAddress.runtimeconfig.dev.json
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\bin\Debug\netcoreapp3.1\EmailAddress.dll
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\bin\Debug\netcoreapp3.1\EmailAddress.pdb
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\obj\Debug\netcoreapp3.1\EmailAddress.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\obj\Debug\netcoreapp3.1\EmailAddress.AssemblyInfo.cs
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\obj\Debug\netcoreapp3.1\EmailAddress.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\obj\Debug\netcoreapp3.1\EmailAddress.dll
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\obj\Debug\netcoreapp3.1\EmailAddress.pdb
+D:\Study\CodingInterview\JustAnswer\AbrakDabraApp\EmailAddress\obj\Debug\netcoreapp3.1\EmailAddress.genruntimeconfig.cache
